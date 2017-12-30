@@ -14,14 +14,14 @@ namespace tugasLiburan
 
         public void setMenu(string nasi = "", string ayam = "", string sayur = "")
         {
-            if(nasi = "nasi")
+            if(nasi == "nasi")
             {
                 this.jumlahNasi++;
-            }else if(ayam != "ayam")
+            }else if(ayam == "ayam")
             {
                 this.jumlahAyam++;
             }
-            else if (sayur != "sayur")
+            else if (sayur == "sayur")
             {
                 this.jumlahSayur++;
             }
