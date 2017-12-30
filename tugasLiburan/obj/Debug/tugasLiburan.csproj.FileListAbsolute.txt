@@ -1,0 +1,9 @@
+C:\Users\ramdan\documents\visual studio 2017\Projects\tugasLiburan\tugasLiburan\bin\Debug\tugasLiburan.exe.config
+C:\Users\ramdan\documents\visual studio 2017\Projects\tugasLiburan\tugasLiburan\bin\Debug\tugasLiburan.exe
+C:\Users\ramdan\documents\visual studio 2017\Projects\tugasLiburan\tugasLiburan\bin\Debug\tugasLiburan.pdb
+C:\Users\ramdan\documents\visual studio 2017\Projects\tugasLiburan\tugasLiburan\obj\Debug\tugasLiburan.csprojResolveAssemblyReference.cache
+C:\Users\ramdan\documents\visual studio 2017\Projects\tugasLiburan\tugasLiburan\obj\Debug\tugasLiburan.Form1.resources
+C:\Users\ramdan\documents\visual studio 2017\Projects\tugasLiburan\tugasLiburan\obj\Debug\tugasLiburan.Properties.Resources.resources
+C:\Users\ramdan\documents\visual studio 2017\Projects\tugasLiburan\tugasLiburan\obj\Debug\tugasLiburan.csproj.GenerateResource.Cache
+C:\Users\ramdan\documents\visual studio 2017\Projects\tugasLiburan\tugasLiburan\obj\Debug\tugasLiburan.exe
+C:\Users\ramdan\documents\visual studio 2017\Projects\tugasLiburan\tugasLiburan\obj\Debug\tugasLiburan.pdb
