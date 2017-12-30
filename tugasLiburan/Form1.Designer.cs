@@ -381,7 +381,7 @@
             // txtUangBayar
             // 
             this.txtUangBayar.Font = new System.Drawing.Font("Lucida Console", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtUangBayar.Location = new System.Drawing.Point(222, 325);
+            this.txtUangBayar.Location = new System.Drawing.Point(275, 329);
             this.txtUangBayar.Name = "txtUangBayar";
             this.txtUangBayar.Size = new System.Drawing.Size(95, 20);
             this.txtUangBayar.TabIndex = 3;
@@ -456,7 +456,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(344, 461);
+            this.ClientSize = new System.Drawing.Size(381, 461);
             this.Controls.Add(this.label13);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.label8);

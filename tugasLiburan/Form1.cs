@@ -318,13 +318,13 @@ namespace tugasLiburan
 
         private void txtJumlahTambahMenu_TextChanged(object sender, EventArgs e)
         {
-            if (txtJumlahTambahMenu.Text != "")
+            if (txtJumlahTambahMenu.Text != "" )
             {
 
                 if (!Int32.TryParse(txtJumlahTambahMenu.Text, out Int32 data))
                 {
 
-                    MessageBox.Show("Harap input hanya angka saja! 2");
+                    MessageBox.Show("Harap input hanya angka saja!");
                     btnTambahMenu.Enabled = false;
                     btnKurangMenu.Enabled = false;
                 }
@@ -336,7 +336,6 @@ namespace tugasLiburan
             }
             else if(txtJumlahTambahMenu.Text == "")
             {
-                MessageBox.Show("oke");
                 btnTambahMenu.Enabled = false;
                 btnKurangMenu.Enabled = false;
             }
