@@ -312,7 +312,7 @@ namespace tugasLiburan
                 double totalBayar = Convert.ToDouble(lblTotalBayar.Text);
                 double uangBayar = Convert.ToDouble(txtUangBayar.Text);
 
-                lblTotalKembalian.Text = (uangBayar - totalBayar).ToString("N3");
+                lblTotalKembalian.Text = (uangBayar - totalBayar).ToString("N2");
             }
         }
 

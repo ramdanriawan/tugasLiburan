@@ -48,7 +48,7 @@
             this.ClientSize = new System.Drawing.Size(284, 261);
             this.Controls.Add(this.button1);
             this.Name = "rumahMakanSukaSukaForm";
-            this.Text = "rumahMakanSukaSukaForm";
+            this.Text = " c";
             this.ResumeLayout(false);
 
         }
